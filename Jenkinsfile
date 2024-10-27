@@ -13,10 +13,10 @@ pipeline {
         }
         stage('Deploy') { 
             steps {
-                sh'echo"this so"
+                sh'echo"tjjjjjjjjjhis so"
             }
         }
-    }
+    } 
 }
 
 
